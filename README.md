@@ -1,5 +1,4 @@
 
-![image_SF](https://github.com/AbderrazzakNfissi/AbderrazzakNfissi/assets/110425764/2187143a-458b-4e35-8bf6-e91bc1b620b8)
 
 <h1 align="center">Hi 👋, I'm NFISSI Abderrazzak</h1>
 <h3 align="center">Currently in my second year of software engineering studies at ENSIAS</h3>
